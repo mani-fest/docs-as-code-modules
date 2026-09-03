@@ -36,3 +36,4 @@ To know about how to configure BMC AMI Ops User Interface, see [Configuring BMC 
 
 To troubleshoot an issue, see [Troubleshooting](troubleshooting.md).
   
+To troubleshoot an issue, see [Troubleshooting](troubleshooting.md).

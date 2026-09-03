@@ -1,0 +1,160 @@
+- [Getting Started](#getting-started)
+  - [Before you begin](#before-you-begin)
+  - [Next steps](#next-steps)
+  - [Ordered list](#ordered-list)
+    - [Task list script](#task-list-script)
+    - [Footnote script](#footnote-script)
+      - [Multiple footnotes](#multiple-footnotes)
+  - [Collapsible section script  1](#collapsible-section-script--1)
+  - [Opened collapsible script  2](#opened-collapsible-script--2)
+  - [Troubleshooting](#troubleshooting)
+
+
+
+# Getting Started
+Welcome to our product documentation.
+## Before you begin
+
+Lorem Ipsum is simply _dummy text_ of the printing and ***typesetting*** industry.   
+
+Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets. 
+
+It has survived not only many decades, but also the leap into electronic ***typesetting***, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum.
+
+**2026***July*
+
+## Next steps
+1. Continue with the installation guide. 
+1. Go to **File>Directory**.   
+1. Press `shift+enter`.   
+1. List of parameters:
+1. PARM 1
+     1. PAAAAAAAAA1
+     1.  PAAAAAAAAAAA2
+           - PAAAAAA1
+           - PAAAAA2
+- PARM 3
+- PARM 4
+
+## Ordered list
+1. STEP 1
+   1. STEP 2
+   2. STEP 3
+        - step1
+        - step2
+1. STEP 4   
+     ANANANANANANAN
+1. STEP 6   
+   HGHGHGHGHG   
+1. STEP 7      
+   `def dummy_task_processor(task_name, duration=3)`   
+ 
+```
+ Simulates processing a task with a status update.
+print(f"Starting task: '{task_name}'...")
+```     
+
+Internal linking:   
+ [README.md](../README.md)
+
+External linking:   
+
+For more information, see [Creating a topic](https://docs.bmc.com/xwiki/bin/view/Main/).   
+
+For more information, see [YOUTUBE](https://www.youtube.com/watch?v=lXYGLD_nLFg).
+
+
+![Fly away](/Images1/Image%202.jpg)   
+
+<img src="../Images1/Image 2.jpg " width="300" height="200" />
+
+See [To add an anchor: Next steps](#before-you-begin)
+
+
+
+ 
+
+
+| Player  | Sports  | Country |
+|:------------- |:---------------:| -------------:|
+| Saina         | Badminton       |      India    |
+| XXX           | feature two     |            xxx|
+| XXX           | feature three   |            xxx|
+  
+
+>[!Note]
+ This is a note.   
+
+> [!TIP]      
+>  This is a tip.
+
+> [!TIP]
+> You can verify the installation by running `git --version`.
+ 
+> [!WARNING]
+> Do not close the terminal while the installation is running.   
+
+> [!EXAMPLE]
+> Do not close the terminal while the installation is running.   
+
+### Task list script
+- [x] Set up the editor
+- [x] Write some markdown
+- [ ] Connect a cloud service
+- [ ] Export the finished document
+
+### Footnote script
+Markdown is a lightweight markup language.[^1]   
+ 
+[^1]: Markdown was created by John Gruber and Aaron Swartz.   
+
+
+#### Multiple footnotes   
+Markdown is commonly used for documentation.[^1]
+GitHub supports GitHub FlavoredMarkdown (GFM).[^2]
+ 
+[^1]: Markdown is designed to be easy to read and write.
+[^2]: GFM extends standard Markdown with additional features.
+ 
+
+## Collapsible section script  1 
+<details>
+<summary>Click to expand</summary>
+ 
+This content is hidden by default.
+ 
+You can include following types of content:
+ 
+- Text
+- Lists
+- Code
+- Links
+- Images
+ 
+</details>   
+
+## Opened collapsible script  2
+ 
+<details open>
+<summary>Prerequisites</summary>
+ 
+Before you begin, make sure you have:
+ 
+- Git installed
+- VS Code installed
+- A GitHub account
+ 
+</details>   
+
+
+## Troubleshooting
+ 
+<details>
+<summary>Why can't I push my changes?</summary>
+ 
+Make sure you:
+ 
+1. Have committed your changes.
+2. Are connected to the correct remote repository.
+3. Have permission to push to the repository.
+ 

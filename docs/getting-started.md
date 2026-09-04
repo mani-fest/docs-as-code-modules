@@ -8,8 +8,7 @@ Its intrinsic `domain` and data science expertise ensure meticulous monitoring o
 
 ## Process   
 The following figure shows the overall process:   
-
-![BMC AMI Ops Insight](/Images1/IM%201.png)  
+<img src="../Images1/IM 1.png " width="500" height="200" />
 Could we increase the image size? The details are hard to see.
 
 1. BMC domain experts build algorithms to identify KPIs (Key Performance Indicators) and groups of connected KPIs that can indicate problems. This minimizes your cost because only the relevant KPIs are monitored.
@@ -17,9 +16,9 @@ KPI group examples:
    1. Global Contention
    2. Page Plock Activity
       1. ENQUEUES
-2. Your historical data is used by the product to identify normal levels for the KPIs in your environment and then train the models. This means that the models are not generic models, but are customized to your environment.
-3. The product then uses multivariate analysis to score your real-time data, comparing it with the data in the models to detect exceptions.
-4. When the product detects anomalies, it looks for trends to detect if you are currently experiencing a problem, or that you are about to experience a problem. Reporting trends rather than individual anomalies maximizes accuracy and minimizes false positives.
+1. Your historical data is used by the product to identify normal levels for the KPIs in your environment and then train the models. This means that the models are not generic models, but are customized to your environment.
+2. The product then uses multivariate analysis to score your real-time data, comparing it with the data in the models to detect exceptions.
+3. When the product detects anomalies, it looks for trends to detect if you are currently experiencing a problem, or that you are about to experience a problem. Reporting trends rather than individual anomalies maximizes accuracy and minimizes false positives.
 
 >[!Note]
 > In some cases, for especially sensitive KPIs, the product calls out individual exceptions as soon as they show an anomaly.   

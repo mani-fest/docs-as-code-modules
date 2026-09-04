@@ -10,7 +10,7 @@ Its intrinsic `domain` and data science expertise ensure meticulous monitoring o
 The following figure shows the overall process:   
 
 ![BMC AMI Ops Insight](/Images1/IM%201.png)  
-
+Could we increase the image size? The details are hard to see.
 
 1. BMC domain experts build algorithms to identify KPIs (Key Performance Indicators) and groups of connected KPIs that can indicate problems. This minimizes your cost because only the relevant KPIs are monitored.
 KPI group examples:  

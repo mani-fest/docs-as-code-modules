@@ -8,8 +8,8 @@ Its intrinsic `domain` and data science expertise ensure meticulous monitoring o
 
 ## Process   
 The following figure shows the overall process:   
-<img src="../Images1/IM 1.png " width="500" height="200" />
-Could we increase the image size? The details are hard to see.
+<img src="../Images1/IM 1.png " width="600" height="250" />
+Could we increase the image size? The details are hard to see. (Updated)
 
 1. BMC domain experts build algorithms to identify KPIs (Key Performance Indicators) and groups of connected KPIs that can indicate problems. This minimizes your cost because only the relevant KPIs are monitored.
 KPI group examples:  

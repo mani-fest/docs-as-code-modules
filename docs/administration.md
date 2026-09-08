@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To install BMC AMI Ops User Interface using Installation System
 
 1. Run the Installation System.
@@ -40,3 +41,5 @@ To troubleshoot an issue, see [Troubleshooting](troubleshooting.md).
   
 To troubleshoot an issue, see [Troubleshooting](troubleshooting.md).
 ABCD
+=======
+>>>>>>> b72edb3a558d268f3166d9548a99aba1cb9186ef

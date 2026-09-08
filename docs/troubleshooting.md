@@ -3,6 +3,7 @@
  
 This occurs because the parameter for Java Virtual Machine (JVM) heap size is set to a min of 256m and a max of 512m as the default memory. When AMIMOSRV runs out of memory, the error message is displayed. 
 Could we remove the duplicated sentence “runs out of memory the error message is displayed”? It appears twice in the above paragraph.
+***Added new update here.***
 
 **Solution**: To increase the JVM heap size that is located in the BMCSAMP dataset in MUXMONEV member.
 

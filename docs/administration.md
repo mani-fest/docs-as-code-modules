@@ -4,7 +4,7 @@
 1. On the **Execute Project** panel, select **1**. Select **Products, Solutions, or Infrastructure** and press **Enter**.
 1. On the **Category Selection** panel, select System management and press **Enter**.
 1. On the System management panel, select **BMC AMI Ops User Interface or Infrastructure**. Scroll to the end of the list and press  Enter .
-1. On the `Install System RTCS Deselection` popup, enter an **S** if you want to install RTCS and press Enter. 
+1. On the `Install System RTCS Deselection` popup, enter an **S** if you want to install RTCS and press Enter. gggg
     >[!warning]
 If you already have *RTCS v. 2.1 or later* installed, you can deselect this. If you do not have RTCS v. 2.1 or later installed, select this.
 1. On the Install System Selected Products and Solutions panel verify your selections and press Enter.

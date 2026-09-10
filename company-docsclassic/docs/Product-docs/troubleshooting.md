@@ -36,13 +36,13 @@ HFSPATH configuration—Configure the BMC AMI Ops CAS and PAS to point to the co
  
 </details>
 
-<details open>
+
    
 <summary>Prerequisites</summary>
 
 1. Have committed your changes.   
-1. Are connected to the correct remote repository.   
-1. Have permission to push to the repository.
+2. Are connected to the correct remote repository.   
+3. Have permission to push to the repository.
 
 
 More testing of this wierd process........ :D
